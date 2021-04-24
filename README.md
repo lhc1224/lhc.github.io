@@ -6,7 +6,7 @@ Affordance detection refers to identifying the potential action possibilities of
 <p align="center">
     <img src="./img/fig_1.png" width="550"/> <br />
     <em> 
-    Figure 1: The classification system and statistics of the Purposedriven Affordance Dataset (PAD), which contains 4,002 images covering 72 object classes and 31 affordance classes.
+    Figure 1: The classification system and statistics of the Purpose-driven Affordance Dataset (PAD), which contains 4,002 images covering 72 object classes and 31 affordance classes.
     </em>
 </p>
 
