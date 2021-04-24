@@ -49,9 +49,26 @@ Affordance detection refers to identifying the potential action possibilities of
     </em>
 </p>
 
-### Jekyll Themes
+## Results
+<p align="center">
+    <img src="./img/s_fig_2.png"/> <br />
+    <em>
+    </em>
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhc1224/lhc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align="center">
+    <img src="./img/s_fig_3.png"/> <br />
+    <em>
+    </em>
+</p>
+
+<p align="center">
+    <img src="./img/s_fig_4.png"/> <br />
+    <em>
+    </em>
+</p>
+
+
 
 ### Support or Contact
 
