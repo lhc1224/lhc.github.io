@@ -41,7 +41,7 @@ Affordance detection refers to identifying the potential action possibilities of
 </p>
 
 ## Dataset Divide 
-
+You can download the dataset from [Baidu Pan]()
 <p align="center">
     <img src="./img/fig_5.png"/> <br />
     <em> 
@@ -50,6 +50,7 @@ Affordance detection refers to identifying the potential action possibilities of
 </p>
 
 ## Results
+You can download the affordance maps from [Baidu Pan]()
 <p align="center">
     <img src="./img/s_fig_2.png"/> <br />
     <em>
@@ -70,6 +71,4 @@ Affordance detection refers to identifying the potential action possibilities of
 
 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Citation
