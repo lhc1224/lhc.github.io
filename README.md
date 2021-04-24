@@ -39,7 +39,15 @@ Affordance detection refers to identifying the potential action possibilities of
     Figure 5: Definition of each affordance in our PAD dataset and the class of objects it contains (2/2).
     </em>
 </p>
-### Dataset Divide 
+
+## Dataset Divide 
+
+<p align="center">
+    <img src="./img/fig_5.png"/> <br />
+    <em> 
+    Figure 6:  The specific affordance category contained in the test set in the threefold setting.
+    </em>
+</p>
 
 ### Jekyll Themes
 
