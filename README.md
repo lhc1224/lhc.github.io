@@ -11,7 +11,7 @@ Affordance detection refers to identifying the potential action possibilities of
 </p>
 
 <p align="center">
-    <img src="./img/fig_2.png" width="550"/> <br />
+    <img src="./img/fig_2.png" width="750"/> <br />
     <em> 
     Figure 2: The word cloud composition of the PAD dataset.
     </em>
