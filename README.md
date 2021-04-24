@@ -10,6 +10,13 @@ Affordance detection refers to identifying the potential action possibilities of
     </em>
 </p>
 
+<p align="center">
+    <img src="./img/fig_2.png" width="550"/> <br />
+    <em> 
+    Figure 1: The classification system and statistics of the Purpose-driven Affordance Dataset (PAD), which contains 4,002 images covering 72 object classes and 31 affordance classes.
+    </em>
+</p>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhc1224/lhc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
