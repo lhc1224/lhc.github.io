@@ -52,6 +52,17 @@ You can download the dataset from [Baidu Pan]()
 ## Results
 You can download the affordance maps from [Baidu Pan]()
 <p align="center">
+    <img src="./img/fig_6.png"/> <br />
+    <em>
+    </em>
+</p>
+
+<p align="center">
+    <img src="./img/fig_7.png"/> <br />
+    <em>
+    </em>
+</p>
+<p align="center">
     <img src="./img/s_fig_2.png"/> <br />
     <em>
     </em>
