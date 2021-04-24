@@ -11,12 +11,18 @@ Affordance detection refers to identifying the potential action possibilities of
 </p>
 
 <p align="center">
-    <img src="./img/fig_2.png" width="750"/> <br />
+    <img src="./img/fig_2.png" width="550"/> <br />
     <em> 
     Figure 2: The word cloud composition of the PAD dataset.
     </em>
 </p>
 
+<p align="center">
+    <img src="./img/s_fig_1.png" width="550"/> <br />
+    <em> 
+    Figure 3: Example of our PAD dataset.
+    </em>
+</p>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhc1224/lhc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
