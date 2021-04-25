@@ -1,6 +1,7 @@
 # One-Shot Affordance Detection
 [[code]()]
 [[paper]()]
+[[supp]()]
 [[dataset]()]
 [[results]()]
 [[tools]()]
