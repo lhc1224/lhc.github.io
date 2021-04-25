@@ -83,6 +83,7 @@ You can download the affordance maps from [Baidu Pan]()
     <em>
     </em>
 </p>
+                                          
 <p align="left">
     <img src="./img/fig_10.png" width="550"/> <br />
     <em>
