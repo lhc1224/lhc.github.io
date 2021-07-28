@@ -1,4 +1,4 @@
-#   
+#   One-Shot Affordance Detection
 [[code]()]
 [[paper]()]
 [[supp]()]
@@ -49,3 +49,9 @@ You can download the affordance maps from [Baidu Pan]()
 </p>
 
 ## Citation
+@inproceedings{Ours,
+  title={One-Shot Affordance Detection},
+  author={Hongchen Luo and Wei Zhai and Jing Zhang and Yang Cao and Dacheng Tao},
+  booktitle={IJCAI},
+  year={2021}
+}
