@@ -42,6 +42,7 @@ Affordance detection refers to identifying the potential action possibilities of
 
 ## Experimental Results
 ### Performance on PADv2
+You can download the affordance maps from [Baidu Pan]()
 <p align="center">
     <img src="./img/PADV2result.png" width="860"/> <br />
     <em> 
@@ -55,6 +56,7 @@ Affordance detection refers to identifying the potential action possibilities of
 </p>
 
 ### Performance on PAD
+You can download the affordance maps from [Baidu Pan]()
 <p align="center">
     <img src="./img/PADresult.png" width="860"/> <br />
     <em> 
