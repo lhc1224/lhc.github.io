@@ -42,7 +42,7 @@ Affordance detection refers to identifying the potential action possibilities of
 
 ## Experimental Results
 <p align="center">
-    <img src="./img/OADV2_result.png" width="860"/> <br />
+    <img src="./img/PADV2result.png" width="860"/> <br />
     <em> 
     </em>
 </p>
