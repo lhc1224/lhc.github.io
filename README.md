@@ -18,10 +18,10 @@ Affordance detection refers to identifying the potential action possibilities of
     </em>
 </p>
 2.[project](http://users.umiacs.umd.edu/~amyers/part-affordance-dataset/)
-4.[project](https://sites.google.com/site/ocnncrf/)
-5.[project](http://sor3d.vcl.iti.gr/)
-6.[project](http://www.cs.utoronto.ca/~cychuang/learning2act/)
-7.[project](https://lhc1224.github.io/lhc.github.io/)
+  4.[project](https://sites.google.com/site/ocnncrf/)
+  5.[project](http://sor3d.vcl.iti.gr/)
+  6.[project](http://www.cs.utoronto.ca/~cychuang/learning2act/)
+  7.[project](https://lhc1224.github.io/lhc.github.io/)
 
 <p align="center">
     <img src="./img/fig_1.png" width="550"/> <br />
