@@ -54,6 +54,13 @@ Affordance detection refers to identifying the potential action possibilities of
     </em>
 </p>
 
+### Performance on PAD
+<p align="center">
+    <img src="./img/PADresult.png" width="860"/> <br />
+    <em> 
+    </em>
+</p>
+
 <p align="center">
     <img src="./img/fig_1.png" width="550"/> <br />
     <em> 
