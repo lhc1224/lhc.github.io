@@ -1,4 +1,4 @@
-#   One-Shot Affordance Detection
+#  One-Shot Affordance Detection
 [[code]()]
 [[paper]()]
 [[supp]()]
