@@ -13,28 +13,6 @@ Affordance detection refers to identifying the potential action possibilities of
 
 ## Dataset(PADv2)
 <p align="center">
-    <img src="./img/dataset_summary.png" width="860"/> <br />
-    <em> 
-    </em>
-</p>
-
-2.[http://users.umiacs.umd.edu/~amyers/part-affordance-dataset/](http://users.umiacs.umd.edu/~amyers/part-affordance-dataset/)
-
-4.[https://sites.google.com/site/ocnncrf/](https://sites.google.com/site/ocnncrf/)
-
-5.[http://sor3d.vcl.iti.gr/](http://sor3d.vcl.iti.gr/)
-
-6.[http://www.cs.utoronto.ca/~cychuang/learning2act/](http://www.cs.utoronto.ca/~cychuang/learning2act/)
-
-7.[https://lhc1224.github.io/lhc.github.io/](https://lhc1224.github.io/lhc.github.io/)
-<p align="center">
-    <img src="./img/dataset_description.png" width="860"/> <br />
-    <em> 
-    </em>
-</p>
-
-
-<p align="center">
     <img src="./img/dataset1.png" width="860"/> <br />
     <em> 
     </em>
