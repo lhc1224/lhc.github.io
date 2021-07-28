@@ -13,6 +13,12 @@ Affordance detection refers to identifying the potential action possibilities of
 
 ## Dataset(PADv2)
 <p align="center">
+    <img src="./img/dataset_example.png" width="860"/> <br />
+    <em> 
+    </em>
+</p>
+
+<p align="center">
     <img src="./img/dataset1.png" width="860"/> <br />
     <em> 
     </em>
