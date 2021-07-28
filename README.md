@@ -34,12 +34,6 @@ You can download the affordance maps from [Baidu Pan]()
     </em>
 </p>
 
-<p align="center">
-    <img src="./img/PADV2result2.png" width="860"/> <br />
-    <em> 
-    </em>
-</p>
-
 ### Performance on PAD
 You can download the affordance maps from [Baidu Pan]()
 <p align="center">
