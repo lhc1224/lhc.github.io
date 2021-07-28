@@ -13,7 +13,7 @@ Affordance detection refers to identifying the potential action possibilities of
 
 ## Dataset(PADv2)
 <p align="center">
-    <img src="./img/dataset_summary.png" width="850"/> <br />
+    <img src="./img/dataset_summary.png" width="860"/> <br />
     <em> 
     </em>
 </p>
@@ -29,7 +29,7 @@ Affordance detection refers to identifying the potential action possibilities of
 7.[https://lhc1224.github.io/lhc.github.io/](https://lhc1224.github.io/lhc.github.io/)
 
 <p align="center">
-    <img src="./img/dataset_description.png" width="850"/> <br />
+    <img src="./img/dataset_description.png" width="860"/> <br />
     <em> 
     </em>
 </p>
