@@ -17,7 +17,7 @@ Affordance detection refers to identifying the potential action possibilities of
     <em> 
     </em>
 </p>
-**he samples images in the PADv2 of this paper.** Our PADv2 has rich annotations such as affordance masks as well as depth information. Thus it provides a solid foundation for the affordance detection task.
+**The samples images in the PADv2 of this paper.** Our PADv2 has rich annotations such as affordance masks as well as depth information. Thus it provides a solid foundation for the affordance detection task.
 <p align="center">
     <img src="./img/dataset1.png" width="860"/> <br />
     <em> 
@@ -36,11 +36,6 @@ Affordance detection refers to identifying the potential action possibilities of
 You can download the affordance maps from [Baidu Pan]()
 <p align="center">
     <img src="./img/PADV2result.png" width="860"/> <br />
-    <em> 
-    </em>
-</p>
-<p align="center">
-    <img src="./img/rank_list.png" width="550"/> <br />
     <em> 
     </em>
 </p>
