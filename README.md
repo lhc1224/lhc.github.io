@@ -15,6 +15,7 @@ Affordance detection refers to identifying the potential action possibilities of
 <p align="center">
     <img src="./img/dataset_summary.png" width="700"/> <br />
     <em> 
+        2[http://users.umiacs.umd.edu/~amyers/part-affordance-dataset/](http://users.umiacs.umd.edu/~amyers/part-affordance-dataset/)
     </em>
 </p>
 <p align="center">
