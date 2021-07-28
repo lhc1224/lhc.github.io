@@ -39,6 +39,11 @@ You can download the affordance maps from [Baidu Pan]()
     <em> 
     </em>
 </p>
+<p align="center">
+    <img src="./img/rank_list.png" width="550"/> <br />
+    <em> 
+    </em>
+</p>
 
 ### Performance on PAD
 You can download the affordance maps from [Baidu Pan]()
@@ -47,6 +52,7 @@ You can download the affordance maps from [Baidu Pan]()
     <em> 
     </em>
 </p>
+
 
 <p align="center">
     <img src="./img/fig_1.png" width="550"/> <br />
